@@ -1,0 +1,9 @@
+template: article
+abstract: false
+bibtex: true
+engine: xelatex
+document:
+  author: Tim von Oldenburg
+  date: \\today
+  title: Towards Accessible Design Knowledge
+  subtitle: Opening up design knowledge and its production in industry and academia
