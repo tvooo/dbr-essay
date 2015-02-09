@@ -1,19 +1,30 @@
 # Introduction
 
-* There is a gap in design knowledge publication between industry and academia.
-* There is also a gap in knowledge publication between design and other disciplines (software dev, for example)
+The global pool of design knowledge is steadily growing. Both industry and academia contribute through design practice and intentional design research. However, there is a large gap between the knowledge that exists and the knowledge that is published.
+Not only is there an internal gap in design; there is also a difference between how much knowledge design and other disciplines make accessible (looking specifically at software development). According to [@davis2009], “the proprietary behavior of design practitioners will not make new knowledge widely available […]”. This is an unfortunate circumstance, as several examples show that both industry and academia would benefit from better access to existing knowledge. In this essay, I present **two** examples from the areas of open source and open innovation, which successfully illustrate how open knowledge can contribute to innovation. I will further suggest ways forward for design, towards more accessible design knowledge.
+
 * A lot of knowledge is produced, but is not made accessible, especially in industry
-
-> It is obvious that the proprietary behavior of design practitioners will not make new knowledge widely available and that universities must take on the roles of knowledge generation and dissemination. [@davis2009]
-
-* Both industry and academia would benefit from more knowledge made accessible
-* Two examples will illustrate how this could be done
 
 # The state of design knowledge publication
 
-* Where can we find design knowledge? the product, process, practice, sideproducts
-* everything is design knowledge: everything a designer knows and remembers from past projects; every artefact and deliverable that came out of a design project [@pierce], even the least interesting recording of a brainstorming session [@gaver], practice and side products  [@schon1990]
-Every brainstorming session is a form of knowledge, because it is informed by the designer’s past experience. “I would think of this, given the experience I have”.
+## Where do we find design knowledge, and how does it look?
+
+Where do we find design knowledge? Nigel Cross [-@cross2] suggests three sources: people, processes, and products.
+
+People, especially—but not exclusively—designers, know about the decisions they made while designing. They bring their past experience and their world view to the design process, influencing the outcome with everything they do. An extensive account of how design practice and practitioner are interdependent is given by [@schon1990].
+
+Processes are . The notion of *infrastructuring* [@] gives a good example of processes exhibiting design knowledge.
+
+Cross’s idea also shows that design knowledge can be found way outside the traditional design discipline: in the people who make decisions about pricing and marketing, in governmental regulations, in the market, …
+
+
+* Where can we find design knowledge? the product, process, practice, side products (who the hell said this?!)
+* everything is design knowledge: everything a designer knows and remembers from past projects; every artefact and deliverable that came out of a design project [@pierce], even the least interesting recording of a brainstorming session [@gaver], practice and side products  Every brainstorming session is a form of knowledge, because it is informed by the designer’s past experience. “I would think of this, given the experience I have”.
+
+## This knowledge is not universally accessible
+
+Of all those source of design knowledge, usually only two get published: industry published the product, which is most likely an artefact, whereas academia published a written account (which in itself can contain knowledge of different levels).
+
 * companies keep their design and development proprietary for quite obvious reasons LOOK FOR EXAMPLES IN  [@davis2009]
   * patents
   * competition, best of them all
@@ -21,6 +32,9 @@ Every brainstorming session is a form of knowledge, because it is informed by th
   * first to market
   * exclusiveness
   * intellectual property
+
+## But it better should be…
+
 * if knowledge is hidden/invisible, it is not useful. the designer knows most about the artefact and design decisions. but if a second designer cannot recognise that knowledge, and thus put it to further use, is it really knowledge?
 * there are examples where opening up the process leads to: innovation, trust, better products, quicker development
 * academia publishes in a linear format, which does not represent knowledge adequately
