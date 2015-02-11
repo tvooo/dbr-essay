@@ -1,4 +1,4 @@
-template: article
+template: tvooo-article
 abstract: false
 bibtex: true
 engine: xelatex
