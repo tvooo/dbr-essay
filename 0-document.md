@@ -44,24 +44,21 @@ From a competitive-economic point of view, however, a collaboration like this se
 
 Vendors now create “complementary products, services and capabilities” on top of the Eclipse platform [@eclipse]. IBM has whole product lines based on the Eclipse platform, including end-user groupware client *Lotus Notes* and the software development tools of the *Rational* family. The official Android SDK by Google is built upon Eclipse. And many smaller companies offer commercial support and training for development using Eclipse.
 
-## Open patent pools
+## Open patenting
 
 In the development of new products, patents often play an important role. They are necessary to protect inventors, but they can also prevent innovation and progress—the patent wars between mobile phone and operating system vendors are a contemporary example.^[See [https://en.wikipedia.org/wiki/Smartphone_patent_wars](https://en.wikipedia.org/wiki/Smartphone_patent_wars), accessed 11-02-2015]
 
-Several organisations and patent pools—consortia that cross-license their patents to their members—exist to protect certain communities instead of single companies and their interests. They open their patents to the public for royalty-free use.
+Several organisations and patent pools—consortia that cross-license their patents to their members—exist to protect certain communities, instead of companies and their interests. They open their patents to the public for royalty-free use—a phenomenon called “open patenting” by @openpatenting.
 
-One such organisation is the WebM Project^[See [http://www.webmproject.org/](http://www.webmproject.org/), accessed 10-02-2015], which manages and develops the open WebM container format for videos. It is the main effort, supported by several web browser vendors, to use VP8 as the video format for HTML5. VP8 is a video compression technology owned by Google, but Google irrevocably released its patents and published the format specification under an open license. The goal of Google and other browser vendors within the WebM project is to create an interoperable standard for video technology on the web—no matter if the user is on Firefox, Chrome, Internet Explorer or a different browser.
+One such organisation is the WebM Project^[See [http://www.webmproject.org/](http://www.webmproject.org/), accessed 10-02-2015], which manages and develops the open WebM container format for videos. As part of WebM, Google irrevocably released its patents on the VP8 video technology and published the specification under an open license. The goal of Google and other browser vendors within the WebM project is to create an interoperable standard for video technology on the web—no matter if the user is on Firefox, Chrome, Internet Explorer or a different browser.
 
-Several more examples exist: The Open Invention Network is “a shared defensive patent pool with the mission to protect Linux”.^[See [http://www.openinventionnetwork.com/](http://www.openinventionnetwork.com/), accessed 11-02-2015]
+Another example is the Open Invention Network (OIN), which is “a shared defensive patent pool with the mission to protect Linux”.^[See [http://www.openinventionnetwork.com/](http://www.openinventionnetwork.com/), accessed 11-02-2015] As even open source developers are not immune to the threat of software patent suits, the OIN pools software patents to be used by open source projects free of royalties.
 
-Quirky is an innovation company that helps makers and inventors to put their product ideas to market. In a collaboration with General Electric (GE), Quirky created what they call “inspiration platform”^[See [http://inspire.quirky.com/](http://inspire.quirky.com/), accessed 08-02-2015]
+A slightly more profit-oriented example, Quirky is an innovation company that helps makers and inventors to put their product ideas to market. In a collaboration with General Electric (GE), Quirky created what they call “inspiration platform”^[See [http://inspire.quirky.com/](http://inspire.quirky.com/), accessed 08-02-2015] where Quirky users can search for GE patents to apply in their inventions. However, the inspiration platform has received critique from makers and open source enthusiasts alike, as the patents are not *really* open, but licensed to Quirky users only. Also, by submitting an invention, the user assigns all their relevant intellectual property rights to Quirky [@quirky].
 
-However, the inspiration platform has received critique from makers and open source enthusiasts alike, as the patents are not reeeeaally open, and quirky forces their users into a weird license [@quirky].
+@patenting put forward a framework for companies to pledge patents to the public, in order to “foster both the free movement of patented knowledge and its business applications.” Such a framework, with a standardised patenting license, would be able to “facilitate access to, transfer of, and use of patented knowledge.”
 
-
-@patenting put forward a framework for companies to pledge patents to the public, in order to foster innovation.
-
-As can be seen, patents—which are a representation of an inventor’s knowledge—can not only be shared for profit, but also for the protection of thriving communities of innovation—for the benefit of a wider audience.
+As the previous examples show, several players from industry and academia are making a move towards open patenting. They show that patents—which are a representation of an inventor’s knowledge—can not only be shared for profit, but also for the protection of thriving communities and for the benefit of a wider audience.
 
 # Ways forward
 
