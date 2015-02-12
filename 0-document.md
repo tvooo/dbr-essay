@@ -28,19 +28,19 @@ Companies keep their design and development proprietary for quite obvious reason
 
 # Open knowledge in other disciplines
 
-Disciplines other than design have been quite successful in sharing knowledge amongst their communities. This section will present two cases, one from software engineering and one from electrical engineering.
+Disciplines other than design have been quite successful in sharing knowledge across their communities. This section will present two occasions of open collaboration in engineering: *open source software* development and *open patent pools*.
 
 ## Open source software
 
-Eclipse is a software development environment—a program made for creating other software programs—and also a general-purpose software platform on which other programs can be build. Originally developed by IBM in a proprietary way, it was released under an open-source license and pledged to the Eclipse Foundation, which was founded to maintain Eclipse and the ecosystem around it with respect to stakeholder interests. The Eclipse Foundation is “a consortium of major software vendors, solution providers, corporations, educational and research institutions and individuals working together” [@eclipse].
+*Eclipse* is a modular, general-purpose *integrated development  environment*—a computer program made for creating software. Originally developed as a proprietary product and heavily funded by IBM, it was later released under an open source license and pledged to the Eclipse Foundation, which was founded to maintain Eclipse and the ecosystem around it with respect to stakeholder interests. The Eclipse Foundation is “a consortium of major software vendors, solution providers, corporations, educational and research institutions and individuals working together” [@eclipse].
 
-Eclipse is open-source software, which means that anyone can view its source code, make adjustments, and contribute back to the project. Through open governance and development, the foundation fosters transparency: “Project discussions, minutes, deliberations, project plans, plans for new features, and other artifacts are open, public, and easily accessible.” [@eclipse] Similar approaches can be found in the Linux Foundation, the Apache Foundation and the Mozilla Foundation.
+Eclipse is open source software, which means that anyone can use it, view its source code, make adjustments, and contribute back to the project. Through open governance and development, the foundation fosters transparency: “Project discussions, minutes, deliberations, project plans, plans for new features, and other artifacts are open, public, and easily accessible.” [@eclipse] Similar approaches are applied by the Linux Foundation, the Apache Foundation, the Mozilla Foundation, and others.
 
-While one could see a clear parallel between the Eclipse Foundation’s model of collaboration and a design research programme, making this point is not my intention. Instead, I would like to look at the role of single companies and institutions within the foundation: they contribute their engineers’ time and expertise to improve a product that benefits them *and their competitors*.
+One can see a clear parallel between the Eclipse Foundation’s model of collaboration and a design research programme: a space for companies and institutions with shared interests to work together on a (mostly) common goal. But making this point is not my intention. Instead, I would like to look at the position and behaviour of single companies and institutions within the foundation: they contribute their engineers’ time and expertise to improve a product that benefits not only themselves, *but also their competitors*.
 
-For companies working with Eclipse, the benefits are numerous: the collaboration reduces risks, as the future of the technology is ensured and wished for by all stakeholders; it saves time to market and reduces development costs, as a product can be built on top of the existing platform; it ensures comparability of standards and a higher rate of standards adoption; and it ensures a great pool of knowledge and potential future employees with specific skills in the technology. 
+For companies creating software based on Eclipse, the benefits are numerous: the collaboration reduces risks, as the sustainability of the technology is ensured by many stakeholders; companies can save time to market and reduce their development costs, as a product can be built on top of the existing platform; common standards are defined and a higher rate of standards adoption is achieved; and a great pool of professionals with relevant skills in the technology is available for hire.
 
-From a competitive-economic point of view, however, this seems counterintuitive. But many OSS projects like Eclipse, Linux, Java, OpenOffice, or MySQL show that sharing knowledge does not eliminate competitiveness. According to @eclipse, the competition is just moved to another level that is not the technology itself. Instead of working on the infrastructure, the focus is put on creating value—a differentiation factor. “Compete on products, collaborate on the platform”.
+From a competitive-economic point of view, however, a collaboration like this seems counterintuitive: why would a company contribute to the success of its competitors? Many OSS projects like Eclipse, Linux, Java, OpenOffice, or MySQL show that sharing knowledge (e.g. through code) does not eliminate competitiveness. According to @eclipse, the competition is just moved to a different level: “Compete on products, collaborate on the platform”. Technology is not a factor of differentiation anymore—the value is created on a product level instead. At the same time, companies using Eclipse benefit from a technology that is far more developed than it would be if it was developed in a proprietary manner.
 
 Vendors now create “complementary products, services and capabilities” on top of the Eclipse platform [@eclipse]. IBM has whole product lines based on the Eclipse platform, including end-user groupware client *Lotus Notes* and the software development tools of the *Rational* family. The official Android SDK by Google is built upon Eclipse. And many smaller companies offer commercial support and training for development using Eclipse.
 
@@ -48,22 +48,28 @@ Vendors now create “complementary products, services and capabilities” on to
 
 In the development of new products, patents often play an important role. They are necessary to protect inventors, but they can also prevent innovation and progress—the patent wars between mobile phone and operating system vendors are a contemporary example.^[See [https://en.wikipedia.org/wiki/Smartphone_patent_wars](https://en.wikipedia.org/wiki/Smartphone_patent_wars), accessed 11-02-2015]
 
+Several organisations and patent pools—consortia that cross-license their patents to their members—exist to protect certain communities instead of single companies and their interests. They open their patents to the public for royalty-free use.
+
+One such organisation is the WebM Project^[See [http://www.webmproject.org/](http://www.webmproject.org/), accessed 10-02-2015], which manages and develops the open WebM container format for videos. It is the main effort, supported by several web browser vendors, to use VP8 as the video format for HTML5. VP8 is a video compression technology owned by Google, but Google irrevocably released its patents and published the format specification under an open license. The goal of Google and other browser vendors within the WebM project is to create an interoperable standard for video technology on the web—no matter if the user is on Firefox, Chrome, Internet Explorer or a different browser.
+
+Several more examples exist: The Open Invention Network is “a shared defensive patent pool with the mission to protect Linux”.^[See [http://www.openinventionnetwork.com/](http://www.openinventionnetwork.com/), accessed 11-02-2015]
+
 Quirky is an innovation company that helps makers and inventors to put their product ideas to market. In a collaboration with General Electric (GE), Quirky created what they call “inspiration platform”^[See [http://inspire.quirky.com/](http://inspire.quirky.com/), accessed 08-02-2015]
 
 However, the inspiration platform has received critique from makers and open source enthusiasts alike, as the patents are not reeeeaally open, and quirky forces their users into a weird license [@quirky].
 
-- GE hand quirky have a coop: GE pledged patents to be used by quirky’s users to create new products
-- other companies have also pledged patents, such as ibm and tesla
-- it’s still only halfway ‘accessible’ - bound to quirky users, but it’s a step forward
 
 @patenting put forward a framework for companies to pledge patents to the public, in order to foster innovation.
 
-The Open Invention Network is “is a shared defensive patent pool with the mission to protect Linux”.^[See [http://www.openinventionnetwork.com/](http://www.openinventionnetwork.com/), accessed 11-02-2015] 
-
-
-
+As can be seen, patents—which are a representation of an inventor’s knowledge—can not only be shared for profit, but also for the protection of thriving communities of innovation—for the benefit of a wider audience.
 
 # Ways forward
+
+All those examples came from technology - is it easier than design?
+
+It seems impossible to find similar projects in the design industry. While R&D in development seems to recognise the benefits of collaboration and knowledge sharing, design research and practice is still taking place mostly in a solitary way.
+
+
 
 Much of the example above is about politics: structure to protect and/or liberate intellectual property, such as foundations, licenses, and patents. but the oss stuff also involves a lot of non-political, very direct involvement of people with publishing knowledge.
 
