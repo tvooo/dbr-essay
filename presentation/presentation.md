@@ -15,6 +15,7 @@ Good examples, bad examples.
 * Open Knowledge
 * Open Patenting
 * Open Innovation
+* ~~Open Design~~
 
 In academia, you are free to build on someone else’s knowledge.
 
@@ -64,8 +65,9 @@ How can a phone that respects the environment and human rights be made?
 
 ![left](library.jpg)
 
-So, we used this paper cup ideation method and it served us really well.
-It was inspired by a method 
+* We used the *paper cup* ideation method, and it served us really well
+* It was inspired by a workshop by *Unsworn Industries* with Malmö Library during Dar’s TP1
+* 
 
 * * *
 
@@ -78,6 +80,8 @@ It was inspired by a method
 * Styleguide
 * Open Source repository
 * Interviews, articles in other media
+
+Still, too tech-oriented
 
 * * *
 
