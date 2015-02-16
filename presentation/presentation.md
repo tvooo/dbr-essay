@@ -5,8 +5,6 @@
 
 This does not only benefit other designers; it also benefits the institutions involved and, most importantly, society.
 
-Good examples, bad examples.
-
 * * *
 
 # Inspiration
@@ -17,19 +15,24 @@ Good examples, bad examples.
 * Open Innovation
 * ~~Open Design~~
 
-In academia, you are free to build on someone else’s knowledge.
-
 * * *
 
 # Non-design examples
 
-It’s super-hard to distinguish between design and non-design
+* It’s really to distinguish between design and non-design.
+* The following are more technology- and business-driven.
+* Good examples, bad examples.
 
 * * *
 
 ## Eclipse
 
 ![right](eclipse.png)
+
+* Open Source
+* Eclipse Foundation: A consortium of companies, institutions and individuals who have an interest in Eclipse
+* Collaborate on the technology, compete on products
+* IBM’s RAD & Lotus Notes, Googles Android SDK, Adobe ColdFusion… Support & Services
 
 * * *
 
@@ -38,8 +41,8 @@ It’s super-hard to distinguish between design and non-design
 ![left](tesla.jpg)
 
 * Tesla releases patents to the public
-* Linux thingie
-* Quirky users can search for and use GE patents in their inventions
+* Open Invention Network, *a shared defensive patent pool with the mission to protect Linux*
+* Quirky Inspiration Platform: Quirky users can search for and use GE patents in their inventions
 
 * * *
 
@@ -51,13 +54,16 @@ Getting there…
 
 ## Fairphone
 
-![left](fairphone.jpg)
+How to make a phone that respects the environment and human rights?
 
-How can a phone that respects the environment and human rights be made?
-
-* Transparency (cost breakdown, suppliers, social assessment report, 
+* Transparency (cost breakdown, suppliers, social assessment report)
+* Roadmap
+* Design challenges (e.g. 3d printed cases)
 * Repair, recycle if possible
-* [Blog](http://www.fairphone.com/2015/02/12/our-approach-to-developing-the-next-fairphone/)
+* Fairphone Pop-Up Space
+* [Blog](http://www.fairphone.com/2015/02/12/our-approach-to-developing-the-next-fairphone/) & (Kwamecorp: Fairphone OS)
+
+![left](fairphone.jpg)
 
 * * *
 
@@ -65,9 +71,9 @@ How can a phone that respects the environment and human rights be made?
 
 ![left](library.jpg)
 
-* We used the *paper cup* ideation method, and it served us really well
+* We used a *paper cup* ideation method, and it served us really well
 * It was inspired by a workshop by *Unsworn Industries* with Malmö Library during Dar’s TP1
-* 
+* Dar had lots of documentation from the past project, but was not sure if we were allowed to use it
 
 * * *
 
@@ -85,21 +91,34 @@ Still, too tech-oriented
 
 * * *
 
-# Intellectual property
+## Multitouch Interface (Jeff Han)
 
-Licensing: Here’s my work (knowledge), and this is what you’re allowed to do with it.
+![left](mti.jpg)
 
-Foundations
+* Research & Design at NYU
+* Founded *Perceptive Pixel* startup
+* Got acquired by Microsoft
+* No academic papers after 2009, but continues to publish patents
 
-Inspiration: great artists steal.
-That’s what happens with cheap ripoffs. But the bad copy of an iPhone is not an iPhone just because it looks like one. The copier did copy the what, but not the why.
+* * *
+
+# What can we do?
+
+**Change of mind**:
+
+* While publishing our knowledge we can still stay competitive
+* Publishing knowledge benefits us and others
+* Stealing is not enough
+
+* * *
+
+# But isn’t that a lot of effort?
 
 * * *
 
 # We need an effortless, natural way to publish design knowledge as we go
 
-Integrated in practice.
-
-In open source, developers communicate their knowledge through their own medium, through their product, which is code.
-
-Design communicates way more mediated, through the product or academic papers or blog entries. A lot more selective, polished, narrow. More WHAT.
+* Integrated in practice.
+* Communicate through your medium (developers through code, designers through…artefacts? post-it notes? drawings? videos?)
+* More *why* in addition to the *what*
+* Blog posts, artificial documentation, specs don’t help much
