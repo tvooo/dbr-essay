@@ -19,7 +19,7 @@ This does not only benefit other designers; it also benefits the institutions in
 
 # Non-design examples
 
-* It’s really to distinguish between design and non-design.
+* It’s hard to distinguish between design and non-design.
 * The following are more technology- and business-driven.
 * Good examples, bad examples.
 
@@ -118,7 +118,7 @@ Still, too tech-oriented
 
 # We need an effortless, natural way to publish design knowledge as we go
 
-* Integrated in practice.
+* Blog posts, artificial documentation, specs don’t help much
+* Needs to be integrated in practice
 * Communicate through your medium (developers through code, designers through…artefacts? post-it notes? drawings? videos?)
 * More *why* in addition to the *what*
-* Blog posts, artificial documentation, specs don’t help much
